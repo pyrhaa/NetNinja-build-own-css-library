@@ -1,0 +1,24 @@
+{
+  "name": "complete-sass-tutorial",
+  "version": "1.0.0",
+  "description": "All course files for the Complete Sass Tutorial on the Net Ninja YouTube channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyrhaa/NetNinja-build-own-css-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyrhaa/NetNinja-build-own-css-library/issues"
+  },
+  "homepage": "https://github.com/pyrhaa/NetNinja-build-own-css-library#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.55.0"
+  }
+}
